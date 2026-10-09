@@ -4,5 +4,5 @@
 	branch = master
 [submodule "srlinux-yang-models"]
 	path = srlinux-yang-models
-	url = https://github.com/HuyVo2112/srlinux-yang-models.git
-	branch = master
+	url = https://github.com/HuyVo2112/srlinux-yang-models
+	branch = main
