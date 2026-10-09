@@ -2,3 +2,7 @@
 	path = 7x50_YangModels
 	url = https://github.com/HuyVo2112/7x50_YangModels.git
 	branch = master
+[submodule "srlinux-yang-models"]
+	path = srlinux-yang-models
+	url = https://github.com/HuyVo2112/srlinux-yang-models.git
+	branch = master
